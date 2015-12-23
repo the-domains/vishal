@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[vishal]]></title>
+        <description><![CDATA[vishal]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 23 Dec 2015 03:00:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hello and welcome to my site. My name is Vishal Burathoki and I am an avid Photographer, Blogger and die hard Traveller.</p>]]></description>
+            <link>undefinedb696d02d-9f03-43f7-8bff-132c27cb916d/index.html</link>
+            <guid isPermaLink="false">b696d02d-9f03-43f7-8bff-132c27cb916d</guid>
+            <pubDate>Wed, 23 Dec 2015 03:00:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
