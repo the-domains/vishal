@@ -1,0 +1,28 @@
+name: vishal
+favicon: null
+layout_spectrum: 0.20304457726888359
+typography_spectrum: 0.06164602842181921
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5049857166595757
+  lightness: 0.41376123926602304
+  saturation: 0.7283904675859958
+  rhythmicContrast: 0.7719682925380766
+purpose: []
